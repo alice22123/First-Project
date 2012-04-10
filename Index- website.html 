@@ -1,0 +1,17 @@
+<h1> The Website of Alice Nee! </h>
+<p><img src="http://www.altiusdirectory.com/Shopping/images/sunflower.jpg" width="200" alt=Sunflower /> 
+<p> <h3> Hello my name is <em> Alice Nee </em> and I am creating a new and fun little website. </h3> </p> 
+<p> <ins> My favourite films and TV shows </ins> </p>
+<ol> 
+<li> Harry Potter </li>
+<li> Lord of the Rings 
+	<ul> 
+	<li> Lord of the Rings 1 </li> 
+	</ul> 
+<address> 
+<p> <a href="mailto:alice22123@hotmail.com"> 
+alice22123@hotmail.com </a> </p> 
+<p> Flat 1, 5 Crouch Hall Rd, London. </p> 
+</address> 
+<p><a href="http://facebook.com/"> Facebook </a></p>
+
